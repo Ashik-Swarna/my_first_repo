@@ -1,0 +1,12 @@
+div {
+    width: auto;
+    height: auto;
+    background-color: skyblue;
+    margin-bottom: 12px;
+}
+
+span {
+    width: auto;
+    height: auto;
+    background-color: gold;
+
